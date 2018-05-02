@@ -1,5 +1,6 @@
-## 1. harjoitus: Ledi-ja-virtapiiri
-Ensimmäinen microbit -harjoitus
+### 1. harjoitus: Ledi-ja-virtapiiri
+
+#### Ensimmäinen microbit -harjoitus
 
 Tarvittavat välineet:
 
