@@ -1,4 +1,4 @@
-# Micro-bit-ledi-ja-nappi
+# 1. harjoitus: Ledi-ja-nappi
 Ensimmäinen microbit -harjoitus
 
 Tarvittavat välineet:
@@ -13,4 +13,6 @@ Kytkentäkaavio:
 
 
 
+# 2. harjoitus: Ledi-ja-nappi
 
+tee jotain
