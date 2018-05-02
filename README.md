@@ -3,9 +3,9 @@ Ensimmäinen microbit -harjoitus
 
 Tarvittavat välineet:
 
-Micro:bit, paristokotelo, johtimia ,100 Ohmin vastus, haluamasi värinen ledi, 
+Micro:bit, paristokotelo, johtimia ,100 Ohmin vastus, haluamasi värinen ledi,
 
-![](Micro-bit-harjoittelua/IMG_20180502_133946.jpg | width=100)
+<img src="https://github.com/tepharju/Micro-bit-harjoittelua/blob/master/IMG_20180502_133946.jpg" height="24" width="48">
 Micro-bit-harjoittelua/IMG_20180502_133946.jpg
 
 
