@@ -1,8 +1,8 @@
+# Micro:bit harjoituksia
+
 ### 1. harjoitus: Ledi-ja-virtapiiri
 
-#### Ensimmäinen microbit -harjoitus
-
-Tarvittavat välineet:
+#### Tarvittavat välineet:
 
 Micro:bit, paristokotelo, johtimia ,100 Ohmin vastus, haluamasi värinen ledi,
 
@@ -10,11 +10,11 @@ Micro:bit, paristokotelo, johtimia ,100 Ohmin vastus, haluamasi värinen ledi,
 
 
 
-Ohjeet:
+#### Ohjeet:
 
 Rakenna suljettu virtapiiri jossa LED palaa. Käytä kytkennässä 100 Ohmin vastusta rajoittamaan virtaa:
 
-Kytkentäkaavio:
+#### Kytkentäkaavio:
 
 
 
