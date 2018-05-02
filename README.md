@@ -15,4 +15,4 @@ Kytkentäkaavio:
 
 # 2. harjoitus: Ledi-ja-nappi
 
-tee jotain
+Kirjoita koodi, jonka avulla ledi syttyy, kun nappi a painetaan pohjaan.
