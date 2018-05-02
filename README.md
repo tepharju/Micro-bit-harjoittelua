@@ -5,7 +5,7 @@ Tarvittavat välineet:
 
 Micro:bit, paristokotelo, johtimia ,100 Ohmin vastus, haluamasi värinen ledi,
 
-<img src="https://github.com/tepharju/Micro-bit-harjoittelua/blob/master/IMG_20180502_133946.jpg" height="24" width="48">
+<img src="https://github.com/tepharju/Micro-bit-harjoittelua/blob/master/IMG_20180502_133946.jpg" height="400" width="700">
 Micro-bit-harjoittelua/IMG_20180502_133946.jpg
 
 
