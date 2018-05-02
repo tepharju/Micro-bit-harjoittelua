@@ -15,7 +15,13 @@ Kytkentäkaavio:
 
 # 2. harjoitus: Micro:bitin ohjaaminen ja tervehdysteksti
 
-Harjoittele koodin kirjoittamista ja lataamista Micro:bittiin. 
+Harjoittele koodin kirjoittamista ja lataamista Micro:bittiin.
+
+Pääset kirjoittamaan koodia täällä: http://python.microbit.org/v/1
+
+Ohjeet:
+
+
 
 # 3. harjoitus: Ledi-ja-nappi
 
