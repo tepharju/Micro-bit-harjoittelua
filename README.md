@@ -24,7 +24,17 @@ Harjoittele koodin kirjoittamista ja lataamista Micro:bittiin.
 
 Pääset kirjoittamaan koodia täällä: http://python.microbit.org/v/1
 
-Ohjeet:
+##### Ohjeet:
+
+1. Kytke Micro:bit kiinni koneeseesi USB-johdolla. Micro:bit näkyy nyt ulkoisena asemana. 
+2. Kirjoita koodi
+3. Lataa koodia sisältävä tiedosto (esim. helloworld.hex) koneellesi
+4. Siirrä tiedosto Micro:bitille
+5. Enjoy!
+
+<img src="https://github.com/tepharju/Micro-bit-harjoittelua/blob/master/microbit1.png" height="200" width="350">
+
+
 
 
 
