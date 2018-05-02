@@ -32,7 +32,7 @@ Harjoittele koodin kirjoittamista ja lataamista Micro:bittiin.
 4. Siirrä tiedosto Micro:bitille
 5. Enjoy!
 
-<img src="https://github.com/tepharju/Micro-bit-harjoittelua/blob/master/microbit1.png" height="400" width="600">
+<img src="https://github.com/tepharju/Micro-bit-harjoittelua/blob/master/microbit1.png" height="50%" width="600">
 
 Ohjeita tekstin ja kuvien lisäämiseen: http://microbit-micropython.readthedocs.io/en/latest/tutorials/images.html
 
