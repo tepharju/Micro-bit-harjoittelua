@@ -32,18 +32,19 @@ Harjoittele koodin kirjoittamista ja lataamista Micro:bittiin.
 4. Siirrä tiedosto Micro:bitille
 5. Enjoy!
 
-6. Kokeile miten saat tekstiä tulostumaan näytölle, kun microbitille tehdään jotain (painetaan nappia, heilutetaan, käännetään jne.). 
+6. Kokeile miten saat tekstiä tulostumaan näytölle, kun microbitille tehdään jotain (painetaan nappia, heilutetaan, käännetään jne.). Huom! ääkköset eivät toimi! 
 
 <img src="https://github.com/tepharju/Micro-bit-harjoittelua/blob/master/microbit1.png" height="50%" width="50%">
 
 Ohjeita tekstin ja kuvien lisäämiseen: http://microbit-micropython.readthedocs.io/en/latest/tutorials/images.html
 
 
-
-
 ## 3. harjoitus: Ledi-ja-nappi
 
-Kirjoita koodi, jonka avulla ledi syttyy, kun nappi a painetaan pohjaan ja Micro:bit näyttää tekstin: "lamppu päällä!
+##### Ohjeet:
+
+1. Kirjoita koodi, jonka avulla ledi syttyy, kun nappia A painetaan ja Micro:bit näyttää tekstin: "Valo palaa!"
+2. Kokeile osaatko lisätä ohjelmaasi toiminnot lampun sytyttämiseksi ja sammuttamiseksi. 
 
 ## 4. harjoitus: Musiikkia Micro:bitillä
 
@@ -53,6 +54,6 @@ Tee joku biisi ja soita se
 
 Eri värejä! Siistiä!
 
-## 6. Harjoitus -Sorting hat
+## 6. Harjoitus: Sorting hat / magic 8-ball
 
-Tee ohjelma joka kertoo mihin tupaan kuulut. Lajitteluhattusi voi toimia esim. kääntämäälä Micro:bit ylöalaisin ohjelma arpoo jonkin tekstin ja näyttää sen microbitin näytöllä.  
+Lajitteluhattu. Tee ohjelma joka arpoo tietyn tekstin näytölle toiminnolla. Ohjelmasi voi toimia esim. kääntämäälä Micro:bit ylöalaisin ohjelma arpoo valmiista listasta jonkin tekstin ja näyttää sen microbitin näytöllä.  
