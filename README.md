@@ -36,6 +36,9 @@ Harjoittele koodin kirjoittamista ja lataamista Micro:bittiin.
 
 Ohjeita tekstin ja kuvien lisäämiseen: http://microbit-micropython.readthedocs.io/en/latest/tutorials/images.html
 
+from microbit import *
+display.scroll("Hello, World!")
+
 
 
 # 3. harjoitus: Ledi-ja-nappi
