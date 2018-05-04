@@ -48,11 +48,23 @@ Ohjeita tekstin ja kuvien lisäämiseen: http://microbit-micropython.readthedocs
 
 ## 4. harjoitus: Musiikkia Micro:bitillä
 
-Tee joku biisi ja soita se
+#### Ohjeet:
+
+Kytke Micro:bittiin kiinni kuulokkeet tai pietso-kaiutin. Kirjoita koodi, jonka avulla Micro:bit soittaa melodian, kun nappia painetaan. Nappi voi olla A, B tai itse johtimilla rakennettu. 
+Tässä esimerkkikoodia melodian tekemiseen. Osaatko rakentaa jonkin tutun melodian (vaikkapa Jänis istui maassa)? Miten yhdistät napinpainalluskoodin melodiakoodiin?
+
 
 ## 5. harjoitus: RGB-ledin ohjaaminen
 
-Eri värejä! Siistiä!
+#### Ohjeet:
+
+RGB-led on led-lamppu, jonka valon väriä voi ohjata koodilla. Eri väriset valot sekoittuvat additiivisesti; mitä enemmän värejä, sitä enemmän valoa.
+1. Kytke RGB-led ja 100 tai 220 Ohmin vatukset kytkentälevyyn ja edelleen Micro:bittiin kuvan mukaisesti. 
+2. Koodaa ohjelma, joka saa ledin loistamaan ensin punaisena, sitten sinisenä, sitten vihreänä ja sitten magentan värisenä. Mitkä kaksi väriä muodostavan magentan? 
+3. Muuta koodia siten, että valo vaihtuu hitaasti/liukuen väristä toiseen.
+4. Pohdi (ja toteuta halutessasi), miten kytkentään voisi liittää fotoresistorin eli valon määrää mittaavan sensorin. Millaisella koodilla saisi valon loistamaan muuten valkoisena, mutta pimeän tullen punaisena?
+
+Esimerkkikoodi:
 
 ## 6. Harjoitus: Sorting hat / magic 8-ball
 
