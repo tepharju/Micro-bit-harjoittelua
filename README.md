@@ -16,7 +16,7 @@ Rakenna suljettu virtapiiri jossa LED palaa. Käytä kytkennässä 100 Ohmin vas
 
 #### Kytkentäkaavio:
 
-<img src="https://github.com/tepharju/Micro-bit-harjoittelua/blob/master/microbit2.png" height="70%" width="70%">
+<img src="https://github.com/tepharju/Micro-bit-harjoittelua/blob/master/microbit2.png" height="40%" width="40%">
 
 ## 2. harjoitus: Micro:bitin ohjaaminen ja tervehdysteksti
 
