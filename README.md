@@ -52,3 +52,7 @@ Tee joku biisi ja soita se
 # 5. harjoitus: RGB-ledin ohjaaminen
 
 Eri värejä! Siistiä!
+
+## 6. Harjoitus -Sorting hat
+
+Tee ohjelma joka kertoo mihin tupaan kuulut. Lajitteluhattusi voi toimia esim. kääntämäälä Micro:bit ylöalaisin ohjelma arpoo jonkin tekstin ja näyttää sen microbitin näytöllä.  
