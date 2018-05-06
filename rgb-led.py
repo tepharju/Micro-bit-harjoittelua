@@ -1,8 +1,8 @@
 from microbit import *
 
-red = pin0
-green = pin2
-blue = pin1 
+red = pin2
+green = pin1
+blue = pin0
 
 while True:
   red.write_digital(1)
