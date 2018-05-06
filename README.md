@@ -4,7 +4,7 @@
 
 #### Tarvittavat välineet:
 
-Micro:bit, paristokotelo, johtimia ,100 Ohmin vastus, haluamasi värinen ledi,
+Micro:bit, paristokotelo, johtimia, 100 Ohmin vastus, haluamasi värinen ledi,
 
 <img src="https://github.com/tepharju/Micro-bit-harjoittelua/blob/master/IMG_20180502_133946.jpg" height="200" width="350">
 
@@ -43,8 +43,9 @@ Ohjeita tekstin ja kuvien lisäämiseen: http://microbit-micropython.readthedocs
 
 ##### Ohjeet:
 
-1. Kirjoita koodi, jonka avulla ledi syttyy, kun nappia A painetaan ja Micro:bit näyttää tekstin: "Valo palaa!"
-2. Kokeile osaatko lisätä ohjelmaasi toiminnot lampun sytyttämiseksi ja sammuttamiseksi. 
+1. Kirjoita koodi, jonka avulla ledi syttyy, kun nappia A painetaan ja Micro:bit näyttää tekstin: "Valo palaa!" 
+Esimerkkikoodia näet tiedostosta nappi.py.
+2. Kokeile osaatko lisätä ohjelmaasi toiminnot lampun sytyttämiseksi ja sammuttamiseksi.
 
 ## 4. harjoitus: Musiikkia Micro:bitillä
 
@@ -66,7 +67,7 @@ RGB-led on led-lamppu, jonka valon väriä voi ohjata koodilla. Eri väriset val
 3. Muuta koodia siten, että valo vaihtuu hitaasti/liukuen väristä toiseen.
 4. Pohdi (ja toteuta halutessasi), miten kytkentään voisi liittää fotoresistorin eli valon määrää mittaavan sensorin. Millaisella koodilla saisi valon loistamaan muuten valkoisena, mutta pimeän tullen punaisena?
 
-Esimerkkikoodi:
+Esimerkkikoodi: https://github.com/tepharju/Micro-bit-harjoittelua/blob/master/rgb-led.py
 
 ## 6. Harjoitus: Sorting hat / magic 8-ball
 
