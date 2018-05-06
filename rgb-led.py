@@ -23,5 +23,5 @@ while True:
  
   # Lopuksi valot pois päältä ennen kuin while True -silmukka alkaa alusta uudelleen
   red.write_digital(0)
-  blue.write_digital(0)
-  green.write_digital(0)
+  green.write_analog(0)
+  sleep(2000)
