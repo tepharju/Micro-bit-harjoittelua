@@ -5,6 +5,6 @@ tune = [r:4, c4:4, d4:4, e4:4, f4:4, g4:8, g4:8, r:2, g4:4, f4:4, e4:4, d4:4, c4
 # tune on laulu, jota soitetaan
 
 while True:
-  pin1.write_digital(1)
-  music.play(tune)
+  
+  music.play(tune, pin1)
   
