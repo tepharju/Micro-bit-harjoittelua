@@ -61,6 +61,7 @@ Esimerkkikoodia musiikin tekemiseen: https://github.com/tepharju/Micro-bit-harjo
 
 RGB-led on led-lamppu, jonka valon väriä voi ohjata koodilla. Eri väriset valot sekoittuvat additiivisesti; mitä enemmän värejä, sitä enemmän valoa.
 1. Kytke RGB-led ja 100 tai 220 Ohmin vatukset kytkentälevyyn ja edelleen Micro:bittiin kuvan mukaisesti. 
+<img src="http://www.101computing.net/wp/wp-content/uploads/bbc-microbit-RGB-LED-Circuit-Gradient.png">
 2. Koodaa ohjelma, joka saa ledin loistamaan ensin punaisena, sitten sinisenä, sitten vihreänä ja sitten magentan värisenä. Mitkä kaksi väriä muodostavan magentan? 
 3. Muuta koodia siten, että valo vaihtuu hitaasti/liukuen väristä toiseen.
 4. Pohdi (ja toteuta halutessasi), miten kytkentään voisi liittää fotoresistorin eli valon määrää mittaavan sensorin. Millaisella koodilla saisi valon loistamaan muuten valkoisena, mutta pimeän tullen punaisena?
