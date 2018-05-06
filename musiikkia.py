@@ -6,5 +6,5 @@ tune = [r:4, c4:4, d4:4, e4:4, f4:4, g4:8, g4:8, r:2, g4:4, f4:4, e4:4, d4:4, c4
 
 while True:
   
-  music.play(tune, pin1)
+  music.play(tune, pin1) # Oletus on, että kaiutin kytketään pin0:aan, joten poikkeus pitää kertoa koodissa
   
