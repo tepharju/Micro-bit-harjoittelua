@@ -47,7 +47,7 @@ Ohjeita tekstin ja kuvien lisäämiseen: http://microbit-micropython.readthedocs
 <br>Esimerkkikoodia näet tiedostosta nappi.py.
 2. Kokeile osaatko lisätä ohjelmaasi toiminnot lampun sytyttämiseksi ja sammuttamiseksi.
 
-## 4. harjoitus: Musiikkia Micro:bitillä
+## 4. harjoitus: Musiikkia ja puhetta Micro:bitillä
 
 #### Ohjeet:
 
@@ -56,6 +56,12 @@ Kytke Micro:bitin 1-pinniin kiinni kuulokkeet tai pietso-kaiutin.
 Kirjoita koodi, jonka avulla Micro:bit soittaa melodian, kun nappia painetaan. Nappi voi olla A, B tai itse johtimilla 0-pinniin rakennettu. 
 Osaatko rakentaa jonkin tutun melodian (vaikkapa Jänis istui maassa)? Miten yhdistät napinpainalluskoodin melodiakoodiin?
 Esimerkkikoodia musiikin tekemiseen: https://github.com/tepharju/Micro-bit-harjoittelua/blob/master/musiikkia.py
+
+Kokeile myös saatko microbitin puhumaan?
+
+Esimerkkikoodi:
+
+Kokeile muuttaa say-funktion parametrejä. Saatko tuotettua selvää puhetta?
 
 
 ## 5. harjoitus: RGB-ledin ohjaaminen
