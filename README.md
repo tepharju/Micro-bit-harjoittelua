@@ -59,7 +59,7 @@ Esimerkkikoodia musiikin tekemiseen: https://github.com/tepharju/Micro-bit-harjo
 
 Kokeile myös saatko microbitin puhumaan?
 
-Esimerkkikoodi:
+Esimerkkikoodi: https://github.com/tepharju/Micro-bit-harjoittelua/blob/master/puhetta.py
 
 Kokeile muuttaa say-funktion parametrejä. Saatko tuotettua selvää puhetta?
 
