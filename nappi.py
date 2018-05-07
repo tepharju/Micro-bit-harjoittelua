@@ -6,7 +6,8 @@ while True:
   else:
     pin1.write_digital(0) # "pois päältä"
   
-  if pin0.is_touched: #rakenna pin0:sta nappi kytkemällä sen ja gnd:n välille johto
+#rakenna halutessasi pin0:sta "nappi" kytkemällä sen ja gnd:n välille johto
+  if pin0.is_touched: 
     pin1.write_digital(1)
   else:
     pin1.write_digital(0)
