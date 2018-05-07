@@ -10,3 +10,12 @@ while True:
     pin1.write_digital(1)
   else:
     pin1.write_digital(0)
+    
+#Tai näin:
+#    if something is True:
+#    # do one thing
+#elif some other thing is True:
+#    # do another thing
+#else:
+#    # do yet another thing.
+    
