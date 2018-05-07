@@ -51,7 +51,9 @@ Ohjeita tekstin ja kuvien lisäämiseen: http://microbit-micropython.readthedocs
 
 #### Ohjeet:
 
-Kytke Micro:bitin 1-pinniin kiinni kuulokkeet tai pietso-kaiutin. Kirjoita koodi, jonka avulla Micro:bit soittaa melodian, kun nappia painetaan. Nappi voi olla A, B tai itse johtimilla 0-pinniin rakennettu. 
+Kytke Micro:bitin 1-pinniin kiinni kuulokkeet tai pietso-kaiutin. 
+<img src="https://s3-eu-west-1.amazonaws.com/twsu-production/images/jack-1465559835719.jpg">
+Kirjoita koodi, jonka avulla Micro:bit soittaa melodian, kun nappia painetaan. Nappi voi olla A, B tai itse johtimilla 0-pinniin rakennettu. 
 Osaatko rakentaa jonkin tutun melodian (vaikkapa Jänis istui maassa)? Miten yhdistät napinpainalluskoodin melodiakoodiin?
 Esimerkkikoodia musiikin tekemiseen: https://github.com/tepharju/Micro-bit-harjoittelua/blob/master/musiikkia.py
 
