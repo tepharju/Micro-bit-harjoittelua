@@ -80,6 +80,8 @@ RGB-led on led-lamppu, jonka valon väriä voi ohjata koodilla. Eri väriset val
 
 Esimerkkikoodi: https://github.com/tepharju/Micro-bit-harjoittelua/blob/master/rgb-led.py
 
-## 6. Harjoitus: Sorting hat / magic 8-ball
+## 6. Harjoitus: Sorting hat / magic 8-ball / noppa
 
-Lajitteluhattu. Tee ohjelma joka arpoo tietyn tekstin näytölle toiminnolla. Ohjelmasi voi toimia esim. kääntämäälä Micro:bit ylöalaisin ohjelma arpoo valmiista listasta jonkin tekstin ja näyttää sen microbitin näytöllä.  
+Tee ohjelma joka arpoo tietyn tekstin näytölle toiminnolla. Ohjelmasi voi toimia esim. kääntämäälä Micro:bit ylöalaisin ohjelma arpoo valmiista listasta jonkin tekstin ja näyttää sen microbitin näytöllä.
+
+https://en.wikipedia.org/wiki/Magic_8-Ball
