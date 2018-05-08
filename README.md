@@ -75,6 +75,9 @@ RGB-led on led-lamppu, jonka valon väriä voi ohjata koodilla. Eri väriset val
 <br>3. Muuta koodia siten, että valo muuttuu vähitellen esim. vihreä-keltainen-punainen.
 <br>4. Pohdi (ja toteuta halutessasi), miten kytkentään voisi liittää fotoresistorin eli valon määrää mittaavan sensorin. Millaisella koodilla saisi valon loistamaan muuten valkoisena, mutta pimeän tullen punaisena?
 
+<img src="https://github.com/tepharju/Micro-bit-harjoittelua/blob/master/rgbLED.png" height="50%" width="50%">
+
+
 Esimerkkikoodi: https://github.com/tepharju/Micro-bit-harjoittelua/blob/master/rgb-led.py
 
 ## 6. Harjoitus: Sorting hat / magic 8-ball
