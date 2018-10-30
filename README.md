@@ -94,7 +94,7 @@ Gestures in MICRO:bit https://microbit-micropython.readthedocs.io/en/latest/tuto
 
 Tee MICRO:bitistä noppa. Ravistamalla (katso gestures) Micro:bittiä laite arpoo satunnaisen numeron ja näyttää sen ruudulla. Lisää ohjelma arpomaan myös perinteinen d6 nopan silmälukukuvio (ei numero.)
 
-Esimerkkikoodi: 
+Esimerkkikoodi: https://github.com/tepharju/Micro-bit-harjoittelua/blob/master/noppa.py
 
 ## 8. Harjoitus: Kompassi ja vatupassi
 
