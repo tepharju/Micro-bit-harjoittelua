@@ -80,8 +80,27 @@ RGB-led on led-lamppu, jonka valon väriä voi ohjata koodilla. Eri väriset val
 
 Esimerkkikoodi: https://github.com/tepharju/Micro-bit-harjoittelua/blob/master/rgb-led.py
 
-## 6. Harjoitus: Sorting hat / magic 8-ball / noppa
+## 6. Harjoitus: Sorting hat / magic 8-ball 
 
 Tee ohjelma joka arpoo tietyn tekstin näytölle toiminnolla. Ohjelmasi voi toimia esim. kääntämäälä Micro:bit ylöalaisin ohjelma arpoo valmiista listasta jonkin tekstin ja näyttää sen microbitin näytöllä.
 
-https://en.wikipedia.org/wiki/Magic_8-Ball
+Magic 8-ball: https://en.wikipedia.org/wiki/Magic_8-Ball
+
+Gestures in MICRO:bit https://microbit-micropython.readthedocs.io/en/latest/tutorials/gestures.html
+
+
+
+## 7. Harjoitus: Noppa
+
+Tee MICRO:bitistä noppa. Ravistamalla (katso gestures) Micro:bittiä laite arpoo satunnaisen numeron ja näyttää sen ruudulla. Lisää ohjelma arpomaan myös perinteinen d6 nopan silmälukukuvio (ei numero.)
+
+Esimerkkikoodi: 
+
+## 8. Harjoitus: Kompassi ja vatupassi
+
+Tee MICRO:bitistä kompassi ja vatupassi. Kompassiin tarvitset compass.calibrate() ja compass.heading() -metodeja. Vatupassiin tarvitset ainakin accelerometer.get_x() -metodia. Tallenna kiihtyvyysanturin arvo muuttujaan.
+
+Esimerkkikoodi:
+
+
+
