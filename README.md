@@ -89,7 +89,6 @@ Magic 8-ball: https://en.wikipedia.org/wiki/Magic_8-Ball
 Gestures in MICRO:bit https://microbit-micropython.readthedocs.io/en/latest/tutorials/gestures.html
 
 
-
 ## 7. Harjoitus: Noppa
 
 Tee MICRO:bitistä noppa. Ravistamalla (katso gestures) Micro:bittiä laite arpoo satunnaisen numeron ja näyttää sen ruudulla. Lisää ohjelma arpomaan myös perinteinen d6 nopan silmälukukuvio (ei numero.)
@@ -100,7 +99,9 @@ Esimerkkikoodi: https://github.com/tepharju/Micro-bit-harjoittelua/blob/master/n
 
 Tee MICRO:bitistä kompassi ja vatupassi. Kompassiin tarvitset compass.calibrate() ja compass.heading() -metodeja. Vatupassiin tarvitset ainakin accelerometer.get_x() -metodia. Tallenna kiihtyvyysanturin arvo muuttujaan.
 
-Esimerkkikoodi:
+Esimerkkikoodi: https://github.com/tepharju/Micro-bit-harjoittelua/blob/master/kompassi.py
+
+Vatupassin esimerkki: https://github.com/tepharju/Micro-bit-harjoittelua/blob/master/vatupassi.py
 
 
 
