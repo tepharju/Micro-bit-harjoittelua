@@ -100,10 +100,10 @@ Esimerkkikoodi: https://github.com/tepharju/Micro-bit-harjoittelua/blob/master/n
 Valosensori näyttää onko yö vai päivä. Rakenna oheisen kuvan mukainen kytkentä ja asenna koodi Micro:bittiin. Testaa eri arvoja, että saat sensorin toimimaan haluamallasi tavalla. 
 
 
-<img src="https://github.com/tepharju/Micro-bit-harjoittelua/blob/master/microbit_breadboard_schema_light.png" height="20%" width="20%">
+<img src="https://github.com/tepharju/Micro-bit-harjoittelua/blob/master/microbit_breadboard_schema_light.png" height="40%" width="40%">
 (Image by: Kitronic)
 
-Esimerkkikoodi:
+Esimerkkikoodi: https://github.com/tepharju/Micro-bit-harjoittelua/blob/master/valosensori.py
 
 
 
