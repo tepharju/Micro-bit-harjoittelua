@@ -95,7 +95,15 @@ Tee MICRO:bitistä noppa. Ravistamalla (katso gestures) Micro:bittiä laite arpo
 
 Esimerkkikoodi: https://github.com/tepharju/Micro-bit-harjoittelua/blob/master/noppa.py
 
-## 8. Harjoitus: Kompassi ja vatupassi
+## 8. Harjoitus: Onko yö vai päivä? (Valosensori)
+
+Valosensori näyttää onko yö vai päivä. Rakenna oheisen kuvan mukainen kytkentä ja asenna koodi Micro:bittiin. Testaa eri arvoja, että saat sensorin toimimaan haluamallasi tavalla. 
+
+
+
+
+
+## 9. Harjoitus: Kompassi ja vatupassi
 
 Tee MICRO:bitistä kompassi ja vatupassi. Kompassiin tarvitset compass.calibrate() ja compass.heading() -metodeja. Vatupassiin tarvitset ainakin accelerometer.get_x() -metodia. Tallenna kiihtyvyysanturin arvo muuttujaan.
 
