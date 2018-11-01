@@ -122,6 +122,7 @@ Vatupassin esimerkki: https://github.com/tepharju/Micro-bit-harjoittelua/blob/ma
 Valotheremin on soitin, jonka tuottama äänenkorkeus riippuu sen saaman valon määrästä. Thereminiä voi "soittaa" liikuttelemalla kättä tai vaikkapa kännykän taskulamppua thereminin valosensorin lähellä.
 
 MICRO:bittiin kytketään valovastus eli fotoresistori ja pietsokaiutin kuvan mukaisesti. 
+<img src="https://github.com/tepharju/Micro-bit-harjoittelua/blob/master/valotheremin1.png" height="50%" width="50%">
 
 Koodiin tarvitaan music-kirjaston music.pitch()-metodia, joka saa äänentaajuuden arvon lukemalla sen analog_read()-metodilla valovastukselta. Analog_read() palauttaa arvon väliltä 0...1023, missä 0 vastaa 0 volttia ja 1023 vastaa 3,3 volttia. Valovastuksella luetun arvon voi esimerkiksi kertoa viidellä, jotta soitin tuottaisi korkeitakin ääniä.
 
