@@ -39,7 +39,12 @@ Harjoittele koodin kirjoittamista ja lataamista Micro:bittiin.
 Ohjeita tekstin ja kuvien lisäämiseen: http://microbit-micropython.readthedocs.io/en/latest/tutorials/images.html
 
 
-## 3. harjoitus: Ledi-ja-nappi
+## 3. harjoitus: Tekstiä ja nappuloita
+
+1. Kirjoita koodi, jolla voit tulostaa Micro:bitin näytölle tekstiä. Painamalla nappia A tulostuu ensimmäinen teksti ja napista B toinen teksti. 
+2. Mitä rakenteita ohjelmassasi pitää olla?
+
+## 4. harjoitus: Ledi-ja-nappi
 
 ##### Ohjeet:
 
