@@ -4,7 +4,7 @@
 
 #### Tarvittavat välineet:
 
-Micro:bit, paristokotelo, johtimia, 100 Ohmin vastus, haluamasi värinen ledi,
+Micro:bit, paristokotelo, johtimia, 100 Ohmin vastus, haluamasi värinen ledi. Paristokotelon sijaan voit kytkeä micro:bitin tietokoneeseen USB-johdolla.
 
 <img src="https://github.com/tepharju/Micro-bit-harjoittelua/blob/master/IMG_20180502_133946.jpg" height="200" width="350">
 
