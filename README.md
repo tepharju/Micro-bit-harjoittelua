@@ -1,28 +1,9 @@
 # Micro:bit harjoituksia
 
-## 1. harjoitus: Ledi-ja-virtapiiri
 
-#### Tarvittavat välineet:
-
-Micro:bit, paristokotelo, johtimia, 100 Ohmin vastus, haluamasi värinen ledi. Paristokotelon sijaan voit kytkeä micro:bitin tietokoneeseen USB-johdolla.
-
-<img src="https://github.com/tepharju/Micro-bit-harjoittelua/blob/master/IMG_20180502_133946.jpg" height="200" width="350">
-
-
-
-#### Ohjeet:
-
-Rakenna suljettu virtapiiri jossa LED palaa. Käytä kytkennässä 100 Ohmin vastusta rajoittamaan virtaa:
-
-#### Kytkentäkaavio:
-
-<img src="https://github.com/tepharju/Micro-bit-harjoittelua/blob/master/microbit2.png" height="40%" width="40%">
-
-## 2. harjoitus: Micro:bitin ohjaaminen ja tervehdysteksti
+## 1. harjoitus: Micro:bitin ohjaaminen ja tervehdysteksti
 
 Harjoittele koodin kirjoittamista ja lataamista Micro:bittiin.
-
-
 
 ##### Ohjeet:
 
@@ -39,18 +20,35 @@ Harjoittele koodin kirjoittamista ja lataamista Micro:bittiin.
 Ohjeita tekstin ja kuvien lisäämiseen: http://microbit-micropython.readthedocs.io/en/latest/tutorials/images.html
 
 
-## 3. harjoitus: Tekstiä ja nappuloita
+## 2. harjoitus: Tekstiä ja nappuloita
 
 1. Kirjoita koodi, jolla voit tulostaa Micro:bitin näytölle tekstiä. Painamalla nappia A tulostuu ensimmäinen teksti ja napista B toinen teksti. 
 2. Mitä rakenteita ohjelmassasi pitää olla?
 
-## 4. harjoitus: Ledi-ja-nappi
+## 3. harjoitus: Ledi-ja-nappi
+
+
 
 ##### Ohjeet:
 
 1. Kirjoita koodi, jonka avulla ledi syttyy, kun nappia A painetaan ja Micro:bit näyttää tekstin: "Valo palaa!" 
 <br>Esimerkkikoodia näet tiedostosta nappi.py.
 2. Kokeile osaatko lisätä ohjelmaasi toiminnot lampun sytyttämiseksi ja sammuttamiseksi.
+
+#### Virtapiiriin tarvittavat välineet:
+
+Micro:bit, paristokotelo, johtimia, 100 Ohmin vastus, haluamasi värinen ledi. Paristokotelon sijaan voit kytkeä micro:bitin tietokoneeseen USB-johdolla.
+
+<img src="https://github.com/tepharju/Micro-bit-harjoittelua/blob/master/IMG_20180502_133946.jpg" height="200" width="350">
+
+#### huom!:
+
+Käytä kytkennässä 100-200 ohmin vastusta rajoittamaan virtaa:
+
+#### Kytkentäkaavio:
+
+<img src="https://github.com/tepharju/Micro-bit-harjoittelua/blob/master/microbit2.png" height="40%" width="40%">
+
 
 ## 4. harjoitus: Musiikkia ja puhetta Micro:bitillä
 
